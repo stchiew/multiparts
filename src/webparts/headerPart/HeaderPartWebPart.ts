@@ -1,3 +1,4 @@
+import { SPService } from './../../common/SPService';
 import { IDynamicDataPropertyDefinition, IDynamicDataSource, IDynamicDataCallables } from '@microsoft/sp-dynamic-data';
 import * as React from 'react';
 import * as ReactDom from 'react-dom';
@@ -47,11 +48,13 @@ export default class HeaderPartWebPart extends BaseClientSideWebPart<IHeaderPart
     // registering current web part as a data source
     this.context.dynamicDataSourceManager.initializeSource(this);
 
-    return super.onInit();
+    return super.onInit().then(async _ => {
+      await SPService.GetAnchorLinks(this.context);
+    });
   }
 
   public render(): void {
-    const anchors = this._dataSources && this._dataSources.map(ds => ds.getPropertyValue('anchor') as IAnchorItem);
+    const anchors1 = this._dataSources && this._dataSources.map(ds => ds.getPropertyValue('anchor') as IAnchorItem);
     const {
       scrollBehavior,
       position,
@@ -65,7 +68,7 @@ export default class HeaderPartWebPart extends BaseClientSideWebPart<IHeaderPart
     const element: React.ReactElement<IHeaderPartProps> = React.createElement(
       HeaderPart,
       {
-        anchors: anchors,
+        anchors: anchors1,
         scrollBehavior: scrollBehavior,
         position: position,
         theme: theme ? theme : (isDark ? 'dark' : 'light'),
@@ -319,5 +322,10 @@ export default class HeaderPartWebPart extends BaseClientSideWebPart<IHeaderPart
   private _getCssLink(customCssUrl: string): Element | null {
     const head = document.head;
     return head.querySelector(`link[href="${customCssUrl}"]`);
+  }
+
+  private _anchorSources(): IAnchorItem[] {
+    let anchors: IAnchorItem[] = [];
+    return anchors;
   }
 }

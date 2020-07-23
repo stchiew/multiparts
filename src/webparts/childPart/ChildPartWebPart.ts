@@ -61,6 +61,8 @@ export default class ChildPartWebPart extends BaseClientSideWebPart<IChildPartWe
         anchorElRef: (el => {
           if (!this.isDisposed) {
             // notifying subscribers that the anchor component has been rendered
+            console.log("el");
+            console.log(el);
             this._anchor.domElement = el;
             this.context.dynamicDataSourceManager.notifyPropertyChanged('anchor');
           }

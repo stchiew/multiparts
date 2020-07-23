@@ -1,0 +1,410 @@
+[
+  {
+    "controlType": 4,
+    "id": "8af1b7fc-f41f-4d66-a177-fe98630b9bec",
+    "position": {
+      "zoneIndex": 3,
+      "sectionIndex": 1,
+      "controlIndex": 1.5,
+      "layoutIndex": 1,
+      "sectionFactor": 12
+    },
+    "emphasis": {},
+    "addedFromPersistedData": true,
+    "innerHTML": "&lt;p style=\"text-align:justify;\"&gt;&lt;strong&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Don’t &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;sacrifice freedom for performance &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style=\"text-align:justify;\"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Now you don’t have to choose between what your patients want and what they need. Introducing &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;ResMed&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt; AirFit™ F30i, the full face mask with a top-of-head tube connection that’s designed to deliver a reliable seal with the freedom to sleep in any position. AirFit F30i was preferred by 3 out of 4 CPAP users to &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;DreamWear&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;™ full face for its overall performance in a direct comparison study.1* &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=\"text-align:justify;\"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=\"text-align:justify;\"&gt;&lt;strong&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;The freedom you want, the performance you &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;need&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style=\"text-align:justify;\"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Not only does the innovative design of AirFit F30i let you sleep in different positions, but it’s also proven to provide a reliable mask seal that endures throughout the night.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;2 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;And because it sits low on your face, you can do things like read comfortably in bed with your glasses on.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=\"text-align:justify;\"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;The &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;UltraCompact&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt; mask cushion rests under the nose, which helps prevent next-day red marks, soreness and irritation. With a cushion design that avoids the top of your nose, you can wake up looking and feeling better.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=\"text-align:justify;\"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=\"text-align:justify;\"&gt;&lt;span class=\"fontSizeMedium\"&gt;1 ResMed guided external clinical study of 48 evaluable current full face CPAP mask users from Oct. 24 to Nov. 20, 2018 in Sydney, AU and San Diego, CA, who trialed AirFit F30i and Phillips™ Respironics DreamWear full face mask at home. &lt;/span&gt;&lt;/p&gt;"
+  },
+  {
+    "controlType": 3,
+    "id": "148a0321-4d3f-407b-a094-f3ae36cb1db3",
+    "position": {
+      "zoneIndex": 2,
+      "sectionIndex": 1,
+      "controlIndex": 1,
+      "sectionFactor": 12,
+      "layoutIndex": 1
+    },
+    "webPartId": "c2bf13fa-64f8-4673-9386-07ed0f21cbd0",
+    "emphasis": {},
+    "reservedHeight": 60,
+    "reservedWidth": 1143,
+    "addedFromPersistedData": true,
+    "webPartData": {
+      "id": "c2bf13fa-64f8-4673-9386-07ed0f21cbd0",
+      "instanceId": "148a0321-4d3f-407b-a094-f3ae36cb1db3",
+      "title": "Page Sections Navigation Anchor",
+      "description": "Anchor for the section navigation",
+      "serverProcessedContent": {
+        "htmlStrings": {},
+        "searchablePlainTexts": {},
+        "imageSources": {},
+        "links": {}
+      },
+      "dataVersion": "1.0",
+      "properties": {
+        "description": "Page Sections Navigation Anchor",
+        "uniqueId": "pagenavanchor-148a0321-4d3f-407b-a094-f3ae36cb1db3",
+        "title": "News &amp; Updates",
+        "showTitle": true
+      }
+    }
+  },
+  {
+    "controlType": 3,
+    "id": "ca3ecf0a-36b4-4729-8695-fa24e8c1d4c2",
+    "position": {
+      "zoneIndex": 1,
+      "sectionIndex": 1,
+      "controlIndex": 1,
+      "sectionFactor": 4,
+      "layoutIndex": 1
+    },
+    "webPartId": "c70391ea-0b10-4ee9-b2b4-006d3fcad0cd",
+    "emphasis": {},
+    "reservedHeight": 224,
+    "reservedWidth": 360,
+    "addedFromPersistedData": true,
+    "webPartData": {
+      "id": "c70391ea-0b10-4ee9-b2b4-006d3fcad0cd",
+      "instanceId": "ca3ecf0a-36b4-4729-8695-fa24e8c1d4c2",
+      "title": "Quick links",
+      "description": "Add links to important documents and pages.",
+      "serverProcessedContent": {
+        "htmlStrings": {},
+        "searchablePlainTexts": {
+          "items[0].title": "Marketing Materials",
+          "items[1].title": "Training Materials",
+          "items[2].title": "YouTube"
+        },
+        "imageSources": {},
+        "links": {
+          "baseUrl": "/sites/eSAMDev",
+          "items[0].sourceItem.url": "/sites/eSAM/SitePages/AirFit%20F30i%20Marketing%20Materials.aspx",
+          "items[1].sourceItem.url": "/sites/eSAM/SitePages/AirFit%20F30i%20Training%20Materials.aspx",
+          "items[2].sourceItem.url": "https://www.youtube.com/user/ResMedAmericas/videos?query=airfit+f30i"
+        },
+        "componentDependencies": {
+          "layoutComponentId": "706e33c8-af37-4e7b-9d22-6e5694d92a6f"
+        }
+      },
+      "dataVersion": "2.2",
+      "properties": {
+        "items": [
+          {
+            "sourceItem": {
+              "guids": {
+                "siteId": "7f77e40b-2396-4bdf-b2b6-920cf4127036",
+                "webId": "9975ac4d-efa2-4e2d-bd21-e8788409c3ef",
+                "listId": "1472d6a4-a0c7-4957-9359-b8563e1dac0d",
+                "uniqueId": "4b9dd666-574a-4ef1-83b9-802b721f407e"
+              },
+              "itemType": 0,
+              "fileExtension": ".ASPX",
+              "progId": null
+            },
+            "thumbnailType": 2,
+            "id": 1,
+            "description": "",
+            "fabricReactIcon": {
+              "iconName": "documentset"
+            },
+            "altText": ""
+          },
+          {
+            "sourceItem": {
+              "guids": {
+                "siteId": "7f77e40b-2396-4bdf-b2b6-920cf4127036",
+                "webId": "9975ac4d-efa2-4e2d-bd21-e8788409c3ef",
+                "listId": "1472d6a4-a0c7-4957-9359-b8563e1dac0d",
+                "uniqueId": "897c1964-e8da-464c-b57e-10bdbdfeaa8f"
+              },
+              "itemType": 0,
+              "fileExtension": ".ASPX",
+              "progId": null
+            },
+            "thumbnailType": 2,
+            "id": 2,
+            "description": "",
+            "fabricReactIcon": {
+              "iconName": "publishcourse"
+            },
+            "altText": ""
+          },
+          {
+            "sourceItem": {
+              "itemType": 2,
+              "fileExtension": "",
+              "progId": ""
+            },
+            "thumbnailType": 2,
+            "id": 3,
+            "description": "",
+            "fabricReactIcon": {
+              "iconName": "video"
+            },
+            "altText": ""
+          }
+        ],
+        "isMigrated": true,
+        "layoutId": "List",
+        "shouldShowThumbnail": true,
+        "buttonLayoutOptions": {
+          "showDescription": false,
+          "buttonTreatment": 2,
+          "iconPositionType": 2,
+          "textAlignmentVertical": 2,
+          "textAlignmentHorizontal": 2,
+          "linesOfText": 2
+        },
+        "listLayoutOptions": {
+          "showDescription": false,
+          "showIcon": true
+        },
+        "waffleLayoutOptions": {
+          "iconSize": 1,
+          "onlyShowThumbnail": false
+        },
+        "hideWebPartWhenEmpty": true,
+        "dataProviderId": "QuickLinks",
+        "webId": "c6012d46-071f-4ecf-a7ca-68c00022b532",
+        "siteId": "2c9e23e0-43d7-4c02-be6f-00a03c5706b4",
+        "pane_link_button": 0,
+        "imageWidth": 100
+      }
+    }
+  },
+  {
+    "controlType": 3,
+    "id": "7e038d3c-722a-4c5a-8319-ab398c79af3d",
+    "position": {
+      "zoneIndex": 1,
+      "sectionIndex": 1,
+      "controlIndex": 3,
+      "layoutIndex": 1,
+      "sectionFactor": 4
+    },
+    "webPartId": "c70391ea-0b10-4ee9-b2b4-006d3fcad0cd",
+    "emphasis": {},
+    "reservedHeight": 326,
+    "reservedWidth": 360,
+    "addedFromPersistedData": true,
+    "webPartData": {
+      "id": "c70391ea-0b10-4ee9-b2b4-006d3fcad0cd",
+      "instanceId": "7e038d3c-722a-4c5a-8319-ab398c79af3d",
+      "title": "Quick links",
+      "description": "Add links to important documents and pages.",
+      "serverProcessedContent": {
+        "htmlStrings": {},
+        "searchablePlainTexts": {
+          "items[0].title": "AirFit F30i Patient Brochure",
+          "items[1].title": "AirFit F30i User Guide",
+          "items[2].title": "AirFit F30i Combined Product Guide",
+          "items[3].title": "Mask Device Compatibility Chart"
+        },
+        "imageSources": {},
+        "links": {
+          "baseUrl": "/sites/eSAMDev",
+          "items[0].sourceItem.url": "/sites/eSAM/MarketingLibrary/10111379.pdf",
+          "items[1].sourceItem.url": "/sites/eSAM/MarketingLibrary/638178.pdf",
+          "items[2].sourceItem.url": "/sites/eSAM/MarketingLibrary/10111403.pdf",
+          "items[3].sourceItem.url": "/sites/eSAM/MarketingLibrary/1017959.pdf"
+        },
+        "componentDependencies": {
+          "layoutComponentId": "706e33c8-af37-4e7b-9d22-6e5694d92a6f"
+        }
+      },
+      "dataVersion": "2.2",
+      "properties": {
+        "items": [
+          {
+            "sourceItem": {
+              "guids": {
+                "siteId": "7f77e40b-2396-4bdf-b2b6-920cf4127036",
+                "webId": "9975ac4d-efa2-4e2d-bd21-e8788409c3ef",
+                "listId": "9ad024e5-ec3f-4db7-b6ec-0582a73b9371",
+                "uniqueId": "f8f5c45d-1135-4276-9a53-52b49b718838"
+              },
+              "itemType": 0,
+              "fileExtension": ".PDF",
+              "progId": null
+            },
+            "thumbnailType": 3,
+            "id": 1,
+            "description": "",
+            "altText": ""
+          },
+          {
+            "sourceItem": {
+              "guids": {
+                "siteId": "7f77e40b-2396-4bdf-b2b6-920cf4127036",
+                "webId": "9975ac4d-efa2-4e2d-bd21-e8788409c3ef",
+                "listId": "9ad024e5-ec3f-4db7-b6ec-0582a73b9371",
+                "uniqueId": "a998583d-9935-4b18-b3d6-a67338efae93"
+              },
+              "itemType": 0,
+              "fileExtension": ".PDF",
+              "progId": null
+            },
+            "thumbnailType": 3,
+            "id": 2,
+            "description": "",
+            "altText": ""
+          },
+          {
+            "sourceItem": {
+              "guids": {
+                "siteId": "7f77e40b-2396-4bdf-b2b6-920cf4127036",
+                "webId": "9975ac4d-efa2-4e2d-bd21-e8788409c3ef",
+                "listId": "9ad024e5-ec3f-4db7-b6ec-0582a73b9371",
+                "uniqueId": "58045deb-c443-4907-8b94-b8c0240d3d46"
+              },
+              "itemType": 0,
+              "fileExtension": ".PDF",
+              "progId": null
+            },
+            "thumbnailType": 3,
+            "id": 3,
+            "description": "",
+            "altText": ""
+          },
+          {
+            "sourceItem": {
+              "guids": {
+                "siteId": "7f77e40b-2396-4bdf-b2b6-920cf4127036",
+                "webId": "9975ac4d-efa2-4e2d-bd21-e8788409c3ef",
+                "listId": "9ad024e5-ec3f-4db7-b6ec-0582a73b9371",
+                "uniqueId": "5f7e7acd-29fb-4d3d-ba43-e85639b8fcca"
+              },
+              "itemType": 0,
+              "fileExtension": ".PDF",
+              "progId": null
+            },
+            "thumbnailType": 3,
+            "id": 4,
+            "description": "",
+            "altText": ""
+          }
+        ],
+        "isMigrated": true,
+        "layoutId": "CompactCard",
+        "shouldShowThumbnail": true,
+        "buttonLayoutOptions": {
+          "showDescription": false,
+          "buttonTreatment": 2,
+          "iconPositionType": 2,
+          "textAlignmentVertical": 2,
+          "textAlignmentHorizontal": 2,
+          "linesOfText": 2
+        },
+        "listLayoutOptions": {
+          "showDescription": false,
+          "showIcon": true
+        },
+        "waffleLayoutOptions": {
+          "iconSize": 1,
+          "onlyShowThumbnail": false
+        },
+        "hideWebPartWhenEmpty": true,
+        "dataProviderId": "QuickLinks",
+        "webId": "c6012d46-071f-4ecf-a7ca-68c00022b532",
+        "siteId": "2c9e23e0-43d7-4c02-be6f-00a03c5706b4",
+        "imageWidth": 100
+      }
+    }
+  },
+  {
+    "controlType": 3,
+    "id": "fc60afa4-9627-4c0a-906f-351a86b2962e",
+    "position": {
+      "zoneIndex": 1,
+      "sectionIndex": 2,
+      "controlIndex": 1,
+      "sectionFactor": 8,
+      "layoutIndex": 1
+    },
+    "webPartId": "1f9bb8d7-e030-4c42-8df4-565f232a87be",
+    "emphasis": {},
+    "reservedHeight": 19,
+    "reservedWidth": 751,
+    "addedFromPersistedData": true,
+    "webPartData": {
+      "id": "1f9bb8d7-e030-4c42-8df4-565f232a87be",
+      "instanceId": "fc60afa4-9627-4c0a-906f-351a86b2962e",
+      "title": "Page Sections Navigation",
+      "description": "Page sections navigation",
+      "serverProcessedContent": {
+        "htmlStrings": {},
+        "searchablePlainTexts": {},
+        "imageSources": {},
+        "links": {}
+      },
+      "dataVersion": "1.0",
+      "properties": {
+        "description": "Page Sections Navigation",
+        "homeItemText": "Product",
+        "customCssUrl": "https://resmedglobal.sharepoint.com/sites/eSAMDev/SiteAssets/psn.css",
+        "position": "top",
+        "theme": "theme",
+        "align": "center",
+        "showHomeItem": true,
+        "scrollBehavior": "smooth"
+      }
+    }
+  },
+  {
+    "controlType": 3,
+    "id": "73eb7049-ca29-4553-9f46-b3da25ce1db7",
+    "position": {
+      "zoneIndex": 1,
+      "sectionIndex": 2,
+      "controlIndex": 2,
+      "layoutIndex": 1,
+      "sectionFactor": 8
+    },
+    "webPartId": "d1d91016-032f-456d-98a4-721247c305e8",
+    "emphasis": {},
+    "reservedHeight": 493,
+    "reservedWidth": 751,
+    "addedFromPersistedData": true,
+    "webPartData": {
+      "id": "d1d91016-032f-456d-98a4-721247c305e8",
+      "instanceId": "73eb7049-ca29-4553-9f46-b3da25ce1db7",
+      "title": "Image",
+      "description": "Show an image on your page",
+      "serverProcessedContent": {
+        "htmlStrings": {},
+        "searchablePlainTexts": {},
+        "imageSources": {
+          "imageSource": "/sites/eSAMDev/SiteAssets/SitePages/AirFit-F30i/39087-36874-Product-Tab-Image.png"
+        },
+        "links": {},
+        "customMetadata": {
+          "imageSource": {
+            "siteid": "2c9e23e0-43d7-4c02-be6f-00a03c5706b4",
+            "webid": "c6012d46-071f-4ecf-a7ca-68c00022b532",
+            "listid": "ae3b014e-8639-417a-90a6-5dd5e88daa03",
+            "uniqueid": "7c705cf1-9eeb-42f2-8b92-48acfc8c0087",
+            "width": "960",
+            "height": "597"
+          }
+        }
+      },
+      "dataVersion": "1.9",
+      "properties": {
+        "imageSourceType": 2,
+        "captionText": "",
+        "altText": "",
+        "linkUrl": "",
+        "overlayText": "",
+        "fileName": "36874-Product-Tab-Image.png",
+        "siteId": "2c9e23e0-43d7-4c02-be6f-00a03c5706b4",
+        "webId": "c6012d46-071f-4ecf-a7ca-68c00022b532",
+        "listId": "ae3b014e-8639-417a-90a6-5dd5e88daa03",
+        "uniqueId": "7c705cf1-9eeb-42f2-8b92-48acfc8c0087",
+        "imgWidth": 960,
+        "imgHeight": 597,
+        "alignment": "Center",
+        "fixAspectRatio": false
+      }
+    }
+  }
+]

@@ -129,6 +129,8 @@ export default class HeaderPart extends React.Component<IHeaderPartProps, IHeade
   private _onClick(anchor: IAnchorItem, index: number) {
 
     // click on one of anchor's nav items
+    console.log("anchor.domElement");
+    console.log(anchor);
     if (anchor.domElement) {
       anchor.domElement.scrollIntoView({
         behavior: this.props.scrollBehavior,
