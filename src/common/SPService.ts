@@ -8,7 +8,7 @@ const _VIEWPORT: string = "data-viewport-id='WebPart.ChildPartWebPart.external."
 export class SPService {
 
   public static async GetAnchorLinks(context: WebPartContext) {
-    //let anchorLinks: INavLink[] = [];
+    let anchorLinks: IAnchorItem[] = [];
 
     try {
       /* Page ID on which the web part is added */
@@ -35,6 +35,7 @@ export class SPService {
             console.log("anchors");
             console.log(unikViewport);
             console.log(_anchor);
+            anchorLinks.push({ title: anchorTitle, uniqueId: uniqueId, domElement: el });
           }
         }
       });
@@ -44,6 +45,6 @@ export class SPService {
     }
 
     console.log();
-    //return anchorLinks;
+    return anchorLinks;
   }
 }

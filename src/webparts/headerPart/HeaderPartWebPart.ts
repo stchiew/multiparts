@@ -30,10 +30,10 @@ export interface IHeaderPartWebPartProps {
 }
 
 export default class HeaderPartWebPart extends BaseClientSideWebPart<IHeaderPartWebPartProps> implements IDynamicDataCallables {
-
+  private anchorLinks: IAnchorItem[] = [];
   private _dataSources: IDynamicDataSource[] = [];
 
-  protected onInit(): Promise<void> {
+  protected async onInit(): Promise<void> {
     const { customCssUrl } = this.properties;
 
     this._onAnchorChanged = this._onAnchorChanged.bind(this);
@@ -48,9 +48,8 @@ export default class HeaderPartWebPart extends BaseClientSideWebPart<IHeaderPart
     // registering current web part as a data source
     this.context.dynamicDataSourceManager.initializeSource(this);
 
-    return super.onInit().then(async _ => {
-      await SPService.GetAnchorLinks(this.context);
-    });
+    const _ = await super.onInit();
+    this.anchorLinks = await SPService.GetAnchorLinks(this.context);
   }
 
   public render(): void {
@@ -68,7 +67,7 @@ export default class HeaderPartWebPart extends BaseClientSideWebPart<IHeaderPart
     const element: React.ReactElement<IHeaderPartProps> = React.createElement(
       HeaderPart,
       {
-        anchors: anchors1,
+        anchors: this.anchorLinks,
         scrollBehavior: scrollBehavior,
         position: position,
         theme: theme ? theme : (isDark ? 'dark' : 'light'),
